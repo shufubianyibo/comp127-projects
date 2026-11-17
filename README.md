@@ -4,7 +4,21 @@ Java graphics, object-oriented programming, games, audio synthesis, and collabor
 
 Coursework portfolio of **Han Sun ([shufubianyibo](https://github.com/shufubianyibo))**. This repository collects source snapshots from local projects so they can be browsed directly from my personal GitHub profile.
 
-## Projects
+## Main projects
+
+### [Character Creator — collaborative final project](course-project-04-han-shelly-sabrina-triple-s/)
+
+A Java graphics application by Han, Shelly, and Sabrina for decorating a character with draggable accessories, changing colors and sizes, undoing decoration placement, and saving an image. The original project README documents the interaction flow, limitations, team credits, and Han's custom pixel art.
+
+The [project README](course-project-04-han-shelly-sabrina-triple-s/README.md) and [`src/`](course-project-04-han-shelly-sabrina-triple-s/src/) are the main entry points. This project represents the course's collaborative application work.
+
+### [Audio synthesizer](hw5-audio-synth-shufubianyibo/)
+
+A larger Java assignment organized around signal, waveform, audio-buffer, and music components. It explores how small classes and interfaces combine to synthesize and visualize music. The supplied framework and assignment documentation remain alongside the implementation.
+
+Browse the [audio-synth source](hw5-audio-synth-shufubianyibo/src/) and [original README](hw5-audio-synth-shufubianyibo/README.md) for the component design. Other graphics and simulation exercises are listed below.
+
+## All projects
 
 | Project | Source files |
 | --- | ---: |
