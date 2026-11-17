@@ -1,0 +1,226 @@
+[
+  {
+    "name": "activity-pixel-arrays-han_shelly",
+    "source_files": 1,
+    "source_lines_including_scaffolding": 62,
+    "origin": "https://github.com/mac-comp127-f24/activity-pixel-arrays-han_shelly",
+    "snapshot_commit": "33e77f4f8fc27d00ec6ac17774c1c6efe3a784e1",
+    "file_count": 5
+  },
+  {
+    "name": "activity-registrar-part-1-durety-han",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 321,
+    "origin": "https://github.com/mac-comp127-f24/activity-registrar-part-1-durety-han",
+    "snapshot_commit": "01bfc3fdb040d8bc0f51dcdfc783d7879c40ff70",
+    "file_count": 7
+  },
+  {
+    "name": "exercise-emoji-vacation-shufubianyibo",
+    "source_files": 3,
+    "source_lines_including_scaffolding": 705,
+    "origin": "https://github.com/mac-comp127-f24/exercise-emoji-vacation-shufubianyibo",
+    "snapshot_commit": "faefa640b10835286fcca1487bf39deead3c8cbc",
+    "file_count": 7
+  },
+  {
+    "name": "hw1-units-and-coins-shufubianyibo",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 193,
+    "origin": "https://github.com/mac-comp127-f24/hw1-units-and-coins-shufubianyibo",
+    "snapshot_commit": "b727d6422e09aa2432914e15a933d2241bb78b46",
+    "file_count": 7
+  },
+  {
+    "name": "activity-refactoring-with-lists-and-loops-han-zane",
+    "source_files": 3,
+    "source_lines_including_scaffolding": 445,
+    "origin": "https://github.com/mac-comp127-f24/activity-refactoring-with-lists-and-loops-han-zane",
+    "snapshot_commit": "8c2200b3a4043f8694ea8aad94f447a996d43377",
+    "file_count": 6
+  },
+  {
+    "name": "activity-concurrency-shelly-han",
+    "source_files": 6,
+    "source_lines_including_scaffolding": 281,
+    "origin": "https://github.com/mac-comp127-f24/activity-concurrency-shelly-han",
+    "snapshot_commit": "117aa3f711badedf8ac40c7d80b051c4b3eab9cb",
+    "file_count": 9
+  },
+  {
+    "name": "hw5-audio-synth-shufubianyibo",
+    "source_files": 19,
+    "source_lines_including_scaffolding": 1031,
+    "origin": "https://github.com/mac-comp127-f24/hw5-audio-synth-shufubianyibo",
+    "snapshot_commit": "5df6966fcb5a1633086b9e97522fd9facbe2e73b",
+    "file_count": 38
+  },
+  {
+    "name": "exercise-weather-display-shufubianyibo",
+    "source_files": 15,
+    "source_lines_including_scaffolding": 1381,
+    "origin": "https://github.com/mac-comp127-f24/exercise-weather-display-shufubianyibo",
+    "snapshot_commit": "973b14afd000a4a97580a2bc76725f11eb579d9e",
+    "file_count": 71
+  },
+  {
+    "name": "exercise-rpg-battle-shufubianyibo",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 383,
+    "origin": "https://github.com/mac-comp127-f24/exercise-rpg-battle-shufubianyibo",
+    "snapshot_commit": "90b2fd83c278dff244a8203714f84262976d375b",
+    "file_count": 7
+  },
+  {
+    "name": "activity-emoji-drawing-han-shelly",
+    "source_files": 1,
+    "source_lines_including_scaffolding": 96,
+    "origin": "https://github.com/mac-comp127-f24/activity-emoji-drawing-han-shelly",
+    "snapshot_commit": "1311e8c628935019008d2509fffe27d92249de1a",
+    "file_count": 4
+  },
+  {
+    "name": "course-project-04-han-shelly-sabrina-triple-s",
+    "source_files": 5,
+    "source_lines_including_scaffolding": 488,
+    "origin": "https://github.com/mac-comp127-f24/course-project-04-han-shelly-sabrina-triple-s",
+    "snapshot_commit": "faa8a61aac700ae28c339e775d2db93c0b0bc411",
+    "file_count": 19
+  },
+  {
+    "name": "exercise-cell-absorption-shufubianyibo",
+    "source_files": 2,
+    "source_lines_including_scaffolding": 171,
+    "origin": "https://github.com/mac-comp127-f24/exercise-cell-absorption-shufubianyibo",
+    "snapshot_commit": "ae3d23fa22c5ab1bcedee4a46e8caf29bd1512e6",
+    "file_count": 9
+  },
+  {
+    "name": "activity-model-a-bicycle-han_ryan",
+    "source_files": 5,
+    "source_lines_including_scaffolding": 369,
+    "origin": "https://github.com/mac-comp127-f24/activity-model-a-bicycle-han_ryan",
+    "snapshot_commit": "0b12586a787a400ca6b6566738b1176190782762",
+    "file_count": 8
+  },
+  {
+    "name": "activity-expressions-and-asts-luna-and-han",
+    "source_files": 1,
+    "source_lines_including_scaffolding": 85,
+    "origin": "https://github.com/mac-comp127-f24/activity-expressions-and-asts-luna-and-han",
+    "snapshot_commit": "d7d8de799e050060c710c09cf9e4fc146551fbf7",
+    "file_count": 4
+  },
+  {
+    "name": "hw2-bubble-blitz-shufubianyibo",
+    "source_files": 8,
+    "source_lines_including_scaffolding": 587,
+    "origin": "https://github.com/mac-comp127-f24/hw2-bubble-blitz-shufubianyibo",
+    "snapshot_commit": "ea1f33574ff823371ad548e8e756dd57166e782b",
+    "file_count": 13
+  },
+  {
+    "name": "exercise-game-of-life-shufubianyibo",
+    "source_files": 10,
+    "source_lines_including_scaffolding": 1134,
+    "origin": "https://github.com/mac-comp127-f24/exercise-game-of-life-shufubianyibo",
+    "snapshot_commit": "dd17a5a6f2cc37e74e03e9b002754514fe83e87a",
+    "file_count": 13
+  },
+  {
+    "name": "activity-streams-and-loops-miles-katherene-han",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 624,
+    "origin": "https://github.com/mac-comp127-f24/activity-streams-and-loops-miles-katherene-han",
+    "snapshot_commit": "8bed44e5eb18a517070f9182550f1cbd1a61f85a",
+    "file_count": 7
+  },
+  {
+    "name": "activity-introduction-to-maps-han-shelly-ben",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 252,
+    "origin": "https://github.com/mac-comp127-f24/activity-introduction-to-maps-han-shelly-ben",
+    "snapshot_commit": "3f8e6c4c100f918594be38117ce4ae55b26266d4",
+    "file_count": 9
+  },
+  {
+    "name": "exercise-registrar-part-2-shufubianyibo",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 467,
+    "origin": "https://github.com/mac-comp127-f24/exercise-registrar-part-2-shufubianyibo",
+    "snapshot_commit": "5d54ec14d5a1b917680a91c43b9c9f7fc787e495",
+    "file_count": 7
+  },
+  {
+    "name": "hw0-shufubianyibo",
+    "source_files": 2,
+    "source_lines_including_scaffolding": 50,
+    "origin": "https://github.com/mac-comp127-f24/hw0-shufubianyibo",
+    "snapshot_commit": "5a55e274901480fac13b53be5f642e76f9ad7e39",
+    "file_count": 5
+  },
+  {
+    "name": "activity-train-car-han-ben",
+    "source_files": 5,
+    "source_lines_including_scaffolding": 254,
+    "origin": "https://github.com/mac-comp127-f24/activity-train-car-han-ben",
+    "snapshot_commit": "bcfe0fd6429212a2ea488f6150cea875698b2d3a",
+    "file_count": 8
+  },
+  {
+    "name": "activity-employee-database-han-sabrina",
+    "source_files": 8,
+    "source_lines_including_scaffolding": 260,
+    "origin": "https://github.com/mac-comp127-f24/activity-employee-database-han-sabrina",
+    "snapshot_commit": "c7a17d5359ccbbd1509703c04b417a4ceda5ffed",
+    "file_count": 11
+  },
+  {
+    "name": "activity-inkblot-han",
+    "source_files": 2,
+    "source_lines_including_scaffolding": 164,
+    "origin": "https://github.com/mac-comp127-f24/activity-inkblot-han",
+    "snapshot_commit": "7c1b112b2106511b24aeaa83291f4491938be519",
+    "file_count": 5
+  },
+  {
+    "name": "activity-debugging-triple-s",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 237,
+    "origin": "https://github.com/mac-comp127-f24/activity-debugging-triple-s",
+    "snapshot_commit": "0793b3c8ffbee26694b6e50cbf9284fe075bc15c",
+    "file_count": 7
+  },
+  {
+    "name": "hw3-painter-shufubianyibo",
+    "source_files": 11,
+    "source_lines_including_scaffolding": 448,
+    "origin": "https://github.com/mac-comp127-f24/hw3-painter-shufubianyibo",
+    "snapshot_commit": "44a0ddfd2e9da57a3d7974f01df038578820b5a7",
+    "file_count": 17
+  },
+  {
+    "name": "play-around",
+    "source_files": 10,
+    "source_lines_including_scaffolding": 527,
+    "origin": "https://github.com/shufubianyibo/play-around",
+    "snapshot_commit": "a9ac09094bbc5d5121425ea59b9656218845bf1f",
+    "file_count": 19
+  },
+  {
+    "name": "activity-library-media-han-katherene",
+    "source_files": 6,
+    "source_lines_including_scaffolding": 315,
+    "origin": "https://github.com/mac-comp127-f24/activity-library-media-han-katherene",
+    "snapshot_commit": "5098ef75f48f7363959859206ad95b92e9e96786",
+    "file_count": 9
+  },
+  {
+    "name": "hw4-breakout-shufubianyibo",
+    "source_files": 4,
+    "source_lines_including_scaffolding": 259,
+    "origin": "https://github.com/mac-comp127-f24/hw4-breakout-shufubianyibo",
+    "snapshot_commit": "d584baa80e6869459636e83c29926c5dba2e5c92",
+    "file_count": 10
+  }
+]
